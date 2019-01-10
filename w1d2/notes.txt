@@ -1,0 +1,20 @@
+Incremental Development
+  -using errors (error driven development)
+
+1. define the problem
+2. what are my inputs to the program?
+3. what is the intended output at the end?
+4. write code that will test the behavior
+5. refactor the code that you wrote earlier to improve as you go
+6. thinking about and writing a plan for handling edge cases (vs. just "happy path")
+
+incremental approach
+
+0. have a hypothesis of the error
+1. create error
+2. solve that error
+hypothesis of change in behavior
+run and confirm/deny hypothesis
+3. see if you can improve that solution
+4. repeat
+
